@@ -1,2 +1,2 @@
 collections: 
-  - name: azure.cli
+  - name: azure.cli.core
